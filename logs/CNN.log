@@ -1,0 +1,58 @@
+
+02-Apr-24 15:51:04 - Accuracy: 0.9217542503863988
+02-Apr-24 15:51:04 - Precision: 0.9217542503863988
+02-Apr-24 15:51:04 - Recall: 1.0
+02-Apr-24 15:51:04 - F1 Score: 0.9592842062933548
+03-Apr-24 11:11:31 - Accuracy: 0.9217542503863988
+03-Apr-24 11:11:31 - Precision: 0.9217542503863988
+03-Apr-24 11:11:31 - Recall: 1.0
+03-Apr-24 11:11:31 - F1 Score: 0.9592842062933548
+03-Apr-24 11:23:56 - Accuracy: 0.9239517908674248
+03-Apr-24 11:23:56 - Precision: 0.9239517908674248
+03-Apr-24 11:23:56 - Recall: 1.0
+03-Apr-24 11:23:56 - F1 Score: 0.9604729133580377
+03-Apr-24 11:31:18 - Accuracy: 0.9239517908674248
+03-Apr-24 11:31:18 - Precision: 0.9239517908674248
+03-Apr-24 11:31:18 - Recall: 1.0
+03-Apr-24 11:31:18 - F1 Score: 0.9604729133580377
+03-Apr-24 11:38:42 - Accuracy: 0.9239517908674248
+03-Apr-24 11:38:42 - Precision: 0.9239517908674248
+03-Apr-24 11:38:42 - Recall: 1.0
+03-Apr-24 11:38:42 - F1 Score: 0.9604729133580377
+03-Apr-24 11:46:48 - Accuracy: 0.9217542503863988
+03-Apr-24 11:46:48 - Precision: 0.9217542503863988
+03-Apr-24 11:46:48 - Recall: 1.0
+03-Apr-24 11:46:48 - F1 Score: 0.9592842062933548
+03-Apr-24 12:19:50 - Accuracy: 0.9239517908674248
+03-Apr-24 12:19:50 - Precision: 0.9239517908674248
+03-Apr-24 12:19:50 - Recall: 1.0
+03-Apr-24 12:19:50 - F1 Score: 0.9604729133580377
+15-Apr-24 18:11:43 - Accuracy: 0.9239517908674248
+15-Apr-24 18:11:43 - Precision: 0.9239517908674248
+15-Apr-24 18:11:43 - Recall: 1.0
+15-Apr-24 18:11:43 - F1 Score: 0.9604729133580377
+16-Apr-24 11:36:36 - Accuracy: 0.9239517908674248
+16-Apr-24 11:36:36 - Precision: 0.9239517908674248
+16-Apr-24 11:36:36 - Recall: 1.0
+16-Apr-24 11:36:36 - F1 Score: 0.9604729133580377
+18-Apr-24 09:37:24 - Accuracy: 0.9239517908674248
+18-Apr-24 09:37:24 - Precision: 0.9239517908674248
+18-Apr-24 09:37:24 - Recall: 1.0
+18-Apr-24 09:37:24 - F1 Score: 0.9604729133580377
+18-Apr-24 09:47:46 - Accuracy: 0.9239517908674248
+18-Apr-24 09:47:46 - Precision: 0.9239517908674248
+18-Apr-24 09:47:46 - Recall: 1.0
+18-Apr-24 09:47:46 - F1 Score: 0.9604729133580377
+18-Apr-24 10:14:40 - Accuracy: 0.9202172805975216
+18-Apr-24 10:14:40 - Precision: 0.9239556692242115
+18-Apr-24 10:14:40 - Recall: 0.9955906669116296
+18-Apr-24 10:14:40 - F1 Score: 0.9584365051291122
+18-Apr-24 10:43:39 - `lr` is deprecated in Keras optimizer, please use `learning_rate` or use the legacy optimizer, e.g.,tf.keras.optimizers.legacy.Adam.
+18-Apr-24 11:52:14 - `lr` is deprecated in Keras optimizer, please use `learning_rate` or use the legacy optimizer, e.g.,tf.keras.optimizers.legacy.Adam.
+18-Apr-24 12:13:01 - `lr` is deprecated in Keras optimizer, please use `learning_rate` or use the legacy optimizer, e.g.,tf.keras.optimizers.legacy.Adam.
+18-Apr-24 12:25:11 - `lr` is deprecated in Keras optimizer, please use `learning_rate` or use the legacy optimizer, e.g.,tf.keras.optimizers.legacy.Adam.
+18-Apr-24 13:46:33 - `lr` is deprecated in Keras optimizer, please use `learning_rate` or use the legacy optimizer, e.g.,tf.keras.optimizers.legacy.Adam.
+22-Apr-24 19:31:30 - Accuracy: 0.9134272619249703
+22-Apr-24 19:31:30 - Precision: 0.9248923341946598
+22-Apr-24 19:31:30 - Recall: 0.986404556310858
+22-Apr-24 19:31:30 - F1 Score: 0.9546586059743954

@@ -1,0 +1,48 @@
+2024-04-03 13:28:09,772 - INFO - Duplicate image found: train_00001200.jpg is a duplicate of train_00001199.jpg
+2024-04-03 13:28:12,743 - INFO - Duplicate image found: train_00001550.jpg is a duplicate of train_00001498.jpg
+2024-04-03 13:28:14,074 - INFO - Duplicate image found: train_00001723.jpg is a duplicate of train_00001673.jpg
+2024-04-03 13:28:15,133 - INFO - Duplicate image found: train_00001858.jpg is a duplicate of train_00001857.jpg
+2024-04-03 13:28:16,234 - INFO - Duplicate image found: train_00001969.jpg is a duplicate of train_00001212.jpg
+2024-04-03 13:28:17,261 - INFO - Duplicate image found: train_00002092.jpg is a duplicate of train_00001674.jpg
+2024-04-03 13:28:19,489 - INFO - Duplicate image found: train_00002359.jpg is a duplicate of train_00001498.jpg
+2024-04-03 13:28:19,618 - INFO - Duplicate image found: train_00002368.jpg is a duplicate of train_00002367.jpg
+2024-04-03 13:28:22,537 - INFO - Duplicate image found: train_00002739.jpg is a duplicate of train_00002134.jpg
+2024-04-03 13:28:23,364 - INFO - Duplicate image found: train_00002862.jpg is a duplicate of train_00002699.jpg
+2024-04-03 13:28:34,387 - INFO - Duplicate image found: train_00007991.jpg is a duplicate of train_00007973.jpg
+2024-04-03 13:28:36,321 - INFO - Duplicate image found: train_00009481.jpg is a duplicate of train_00005004.jpg
+2024-04-03 13:29:08,094 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-04-03 13:31:11,655 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-04-03 13:31:11,855 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2024-04-03 13:31:12,384 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-04-03 13:31:12,958 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-04-03 13:31:13,398 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-04-03 13:42:03,427 - INFO - Accuracy: 0.9239517908674248
+2024-04-03 13:42:03,427 - INFO - Precision: 0.9239517908674248
+2024-04-03 13:42:03,428 - INFO - Recall: 1.0
+2024-04-03 13:42:03,428 - INFO - F1 Score: 0.9604729133580377
+2024-04-03 20:19:22,326 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2024-04-03 20:21:22,549 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\backend.py:873: The name tf.get_default_graph is deprecated. Please use tf.compat.v1.get_default_graph instead.
+
+2024-04-03 20:21:22,655 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\layers\pooling\max_pooling2d.py:161: The name tf.nn.max_pool is deprecated. Please use tf.nn.max_pool2d instead.
+
+2024-04-03 20:21:22,990 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\optimizers\__init__.py:309: The name tf.train.Optimizer is deprecated. Please use tf.compat.v1.train.Optimizer instead.
+
+2024-04-03 20:21:23,501 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\utils\tf_utils.py:492: The name tf.ragged.RaggedTensorValue is deprecated. Please use tf.compat.v1.ragged.RaggedTensorValue instead.
+
+2024-04-03 20:21:23,851 - WARNING - From C:\Users\alexw\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\keras\src\engine\base_layer_utils.py:384: The name tf.executing_eagerly_outside_functions is deprecated. Please use tf.compat.v1.executing_eagerly_outside_functions instead.
+
+2024-04-03 21:07:30,177 - INFO - Accuracy: 0.9239517908674248
+2024-04-03 21:07:30,180 - INFO - Precision: 0.9239517908674248
+2024-04-03 21:07:30,180 - INFO - Recall: 1.0
+2024-04-03 21:07:30,180 - INFO - F1 Score: 0.9604729133580377
+2024-04-04 07:55:12,133 - INFO - Accuracy: 0.9239517908674248
+2024-04-04 07:55:12,137 - INFO - Precision: 0.9239517908674248
+2024-04-04 07:55:12,137 - INFO - Recall: 1.0
+2024-04-04 07:55:12,137 - INFO - F1 Score: 0.9604729133580377
